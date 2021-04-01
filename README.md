@@ -1,6 +1,6 @@
 ## Summary
 
-> **Original Gigantum Project: [https://gigantum.com/dmk/gtc2021](ttps://gigantum.com/dmk/gtc2021)**
+> **Original Gigantum Project: [https://gigantum.com/dmk/gtc2021](https://gigantum.com/dmk/gtc2021)**
 >
 > [Download](https://gigantum.com/download) Gigantum to run this Project on your own hardware with a minimal effort.
 
